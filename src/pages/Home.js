@@ -22,7 +22,7 @@ const Home = () => {
       <Roadmap />
       <Faq />
       <Donate />
-      {/* <Community /> */}
+      <Community />
     </Layout>
   );
 };
